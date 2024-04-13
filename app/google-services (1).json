@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "354175382173",
-    "project_id": "hackathon-62e59",
-    "storage_bucket": "hackathon-62e59.appspot.com"
+    "project_number": "**********************",
+    "project_id": "************************",
+    "storage_bucket": "******************"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:354175382173:android:bfdc6163964caea744da74",
+        "mobilesdk_app_id": "******************************",
         "android_client_info": {
           "package_name": "com.innovateyou.hackathonprototype"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBEO__j1Bjpn0bDQCRzwmL9CSBWc1khphg"
+          "current_key": "****************************"
         }
       ],
       "services": {
